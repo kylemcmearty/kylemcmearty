@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+AI guy with 5 years enterprise production experience shipping 5 personalization products and 7 APIs.
+
+I like to consider myself a generalist with specialist skillsets.
+
+My main focus is developing fullstack (business + development) AI solutions with Python.
+Including:
+  - Recommender Systems (Personalization)
+  - Segmentation Systems
+  - Forecasting
+
+But also Typescript and web app development. I think eventually AI python people will converge on Typescript.
+
+
+
 <!--
 **kylemcmearty/kylemcmearty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
