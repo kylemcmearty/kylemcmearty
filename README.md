@@ -1,16 +1,18 @@
 ## Hi there 👋
 
 AI guy with 5 years enterprise production experience shipping 5 personalization products and 7 APIs.
+https://www.ecrs.com/resources/library/p/ecrs-expands-artificial-intelligence-capabilities-in-ecommerce-with-personalization/
 
 I like to consider myself a generalist with specialist skillsets.
 
 My main focus is developing fullstack (business + development) AI solutions with Python.
+
 Including:
   - Recommender Systems (Personalization)
   - Segmentation Systems
   - Forecasting
 
-But also Typescript and web app development. I think eventually AI python people will converge on Typescript.
+But also Typescript and web app development. I think eventually AI Python people will converge on Typescript.
 
 
 
