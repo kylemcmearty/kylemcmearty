@@ -5,14 +5,14 @@ https://www.ecrs.com/resources/library/p/ecrs-expands-artificial-intelligence-ca
 
 I like to consider myself a generalist with specialist skillsets.
 
-My main focus is developing fullstack (business + development) AI solutions with Python.
+My main focus is developing fullstack (business + development) AI solutions with Python and Typescript for web app development (Next.js).
 
 Including:
   - Recommender Systems (Personalization)
   - Segmentation Systems
   - Forecasting
 
-But also Typescript and web app development. I think eventually AI Python people will converge on Typescript.
+I think eventually AI Python people will converge on Typescript.
 
 
 
