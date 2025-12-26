@@ -9,6 +9,7 @@ My main focus is developing fullstack (business + development) AI solutions with
 
 Including:
   - Recommender Systems (Personalization)
+  - Agentic AI Systems
   - Segmentation Systems
   - Forecasting
 
